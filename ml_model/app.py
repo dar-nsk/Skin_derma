@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from PIL import Image
@@ -30,7 +30,7 @@ def scan():
 
 if __name__ == '__main__':
     app.run(debug=True)
-=======
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from PIL import Image
@@ -62,4 +62,4 @@ def scan():
 
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> 4a40d26f4cfb5c8be7c965dc401165e017be6eed
+
