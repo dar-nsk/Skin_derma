@@ -68,9 +68,6 @@ To run this project locally:
    -Flask server URL
    -Email configuration
 7. **Run the backend servers:**
-   -Start Node.js API:
       ```bash
      npm start
-   -Start Flask API:
-      ```bash
      python app.py
