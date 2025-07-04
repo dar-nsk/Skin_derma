@@ -9,6 +9,7 @@ Skinderma helps users identify skin conditions via image scanning and symptom se
 
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
+- [Screenshots](#screenshorts)
 - [Features](#features)
 - [Getting Started](#getting-started)
 
