@@ -54,19 +54,23 @@ To run this project locally:
    git clone (https://github.com/dar-nsk/Skin_derma)
 
 2. **Install Node.js dependencies:**
+   ```bash
    cd backend
    npm install
 
-3. **Set up Python environment:**
+4. **Set up Python environment:**
+    ```bash
    cd ml-model
    pip install -r requirements.txt
 
-4. **Configure environment variables:**
-   Database credentials
-   Flask server URL
-   Email configuration
-5. **Run the backend servers:**
-   Start Node.js API:
+6. **Configure environment variables:**
+   -Database credentials
+   -Flask server URL
+   -Email configuration
+7. **Run the backend servers:**
+   -Start Node.js API:
+      ```bash
      npm start
-   Start Flask API:
+   -Start Flask API:
+      ```bash
      python app.py
