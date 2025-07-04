@@ -1,3 +1,4 @@
+## Skinderma
 
 > **AI-Powered Skin Health Assistant**  
 Skinderma helps users identify skin conditions via image scanning and symptom search, offering personalized treatment suggestions and dermatologist guidance.
